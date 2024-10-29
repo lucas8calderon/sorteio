@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sorteio</string>
+    <string name="prize_draw">SORTEIO</string>
+    <string name="result">Resultado</string>
+    <string name="default_number">0</string>
+    <string name="draw_numbers">Sortear números</string>
+    <string name="clear_numbers">Limpar números</string>
+</resources>
