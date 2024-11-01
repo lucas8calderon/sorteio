@@ -18,6 +18,6 @@ class SplashViewModel : ViewModel() {
     private fun startSplashTimer() {
         Handler(Looper.getMainLooper()).postDelayed({
             _navigateToMain.value = true
-        }, 3000) // 3 segundos
+        }, 3000)
     }
 }
