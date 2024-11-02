@@ -7,10 +7,8 @@
 
     <ImageView
         android:id="@+id/logoImage"
-        android:layout_width="300dp"
-        android:layout_height="300dp"
-        android:layout_alignParentBottom="true"
-
+        android:layout_width="@dimen/splash_image_width"
+        android:layout_height="@dimen/splash_image_height"
         android:layout_marginStart="50dp"
         android:layout_marginEnd="50dp"
         android:src="@drawable/sorteio"
