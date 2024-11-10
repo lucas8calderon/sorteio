@@ -61,7 +61,7 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - Lógica de Programação
 - Pogramação Orientada a Objetos
 - Constraintlayout
-- Arquiterua MVVM
+- Arquitetura MVVM
 
 ---
 
